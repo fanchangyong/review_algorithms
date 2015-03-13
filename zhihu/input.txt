@@ -1,0 +1,8 @@
+r a
+r b
+r c
+a q
+a p
+b v
+c z
+p x
